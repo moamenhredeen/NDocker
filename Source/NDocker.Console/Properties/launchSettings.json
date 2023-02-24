@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cli --greet": {
+      "commandName": "Project",
+      "commandLineArgs": "--greet moamen"
+    }
+  }
+}
